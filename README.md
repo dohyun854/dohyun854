@@ -7,8 +7,8 @@ I develop many things
 
 ### Github Status
 
-[![Dohyun Kim's github stats](https://github-readme-stats.vercel.app/api?username=dohyun854&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dohyun854/github-readme-stats)
+[![Dohyun Kim's github stats](https://github-readme-stats.vercel.app/api?username=dohyun854&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dohyun854)
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun854&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dohyun854/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun854&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dohyun854)
