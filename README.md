@@ -16,5 +16,6 @@ I develop many kinds of things!
 
 ### Social
 
-[Twitter](https://twitter.com/dohyun854)
-![Twitter Follow](https://img.shields.io/twitter/follow/dohyun854?label=Followers&style=social)
+[![Twitter: dohyun854](https://img.shields.io/twitter/follow/dohyun854?style=social)](https://twitter.com/dohyun854)
+
+
