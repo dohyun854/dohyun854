@@ -6,13 +6,18 @@ I develop many kinds of things!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohyun854&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/dohyun854)
 
-### Github Status
+### My Stats
 
-[![Dohyun Kim's github stats](https://github-readme-stats.vercel.app/api?username=dohyun854&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dohyun854)
+<a href="https://github.com/dohyun854/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dohyun854&show_icons=true&include_all_commits=true&theme=gradient" alt="Dohyun Kim's Github Stats" />
+</a>
 
-### Top Langs
+### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun854&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dohyun854)
+<a href="https://github.com/dohyun854">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dohyun854&layout=compact&theme=radical" />
+</a>
 
 ### Social
 
