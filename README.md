@@ -13,3 +13,7 @@ I develop many kinds of things!
 ### Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun854&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/dohyun854)
+
+### Social
+
+![Twitter URL](https://img.shields.io/twitter/url?logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fdohyun854)
