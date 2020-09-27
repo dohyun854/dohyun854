@@ -1,10 +1,10 @@
 # Dohyun Kim
 😎 Hi! I am **Dohyun Kim**. 
 I am a student developer in South Korea.
-I develop many things.
+I develop many kinds of things!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohyun854&count_bg=%2371E1FF&title_bg=%23555555&icon=github.svg&icon_color=%2371E1FF&title=Users+Who+watched+this&edge_flat=true)
-(https://github.com/dohyun854)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Github Status
 
