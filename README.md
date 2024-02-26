@@ -1,7 +1,6 @@
 # Dohyun Kim
-😎 Hi! I am **Dohyun Kim**. 
-I am a student developer in South Korea.
-I develop many kinds of things!
+Student developer in Republic of Korea
+Loves Programming & Physics
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohyun854&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/dohyun854)
@@ -20,9 +19,10 @@ I develop many kinds of things!
 </a>
 
 ### Social
-
+*Inactive on Twitter & Instagram these days :(
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdohyun854)](https://twitter.com/dohyun854)
 [![Twitter](https://img.shields.io/twitter/follow/dohyun854?style=social)](https://twitter.com/dohyun854)
+
 
 
 
