@@ -1,7 +1,7 @@
 # Dohyun Kim 👨‍💻
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=dohyun854&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
+![Dohyun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dohyun854&show_icons=true&theme=github_dark)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dohyun854&theme=discord&no-frame=false&no-bg=false&margin-w=4)
